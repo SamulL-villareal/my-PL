@@ -1148,7 +1148,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
 
 ===== Garuda Tv ===== 
  
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV (OTT)
+EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV (OTT)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
@@ -1237,7 +1237,7 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-khVJ1J12niY/XQzjmdtsctI/AAAAAAAAAE8/GpD4giPWpmELFg5wIto37Vtf0S8_FoMaQCK4BGAYYCw/s1600/IDX%2BCHANNEL%2BTC.png" group-title="NEWS",IDX chanel (OTT)
+EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-khVJ1J12niY/XQzjmdtsctI/AAAAAAAAAE8/GpD4giPWpmELFg5wIto37Vtf0S8_FoMaQCK4BGAYYCw/s1600/IDX%2BCHANNEL%2BTC.png" group-title="NEWS",IDX chanel (OTT)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1304,7 +1304,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://liveaneviadev.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV (OTT)
+EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV (OTT)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV (First Media)
@@ -1335,7 +1335,7 @@ https://liveaneviadev.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV (First Media)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV (OTT)
+EXTINF:-1 group-title="NEWS" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV (OTT)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png",Metro TV Dens
@@ -1371,7 +1371,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&u
 EXTINF:-1 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="NEWS",Berita Satu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="NEWS",Berita Satu (OTT)
+EXTINF:-1 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="NEWS",Berita Satu (OTT)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title="NEWS",Berita 1 World
