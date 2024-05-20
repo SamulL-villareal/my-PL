@@ -1,482 +1,3 @@
-404: Not Found
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml,https://mammothtv.wapka.co/epg2,https://mammothtv.wapka.co/epg1,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ua.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/ie.xml" refresh="3600"
 
 ########### NASIONAL ##########
@@ -2388,6 +1909,27 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
+===== fox =====
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 502" tvg-logo="" group-title="SPORTS",FOX 502
+http://iptvkita.my.id:25461/direct/hometv/1876
+#EXTINF:-1 tvg-id="" tvg-name="FOX 504" tvg-logo="" group-title="SPORTS",FOX 504
+http://iptvkita.my.id:25461/direct/hometv/1877
+
+===== ziggo =====
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport HD
+http://iptvkita.my.id:25461/direct/hometv/2041
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Tennis HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Tennis HD
+http://iptvkita.my.id:25461/direct/hometv/2042
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport Voetbal HD
+http://iptvkita.my.id:25461/direct/hometv/2043
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport Golf HD
+http://iptvkita.my.id:25461/direct/hometv/2045
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="SPORTS",Ziggo Sport Select HD
+http://iptvkita.my.id:25461/direct/hometv/2044
+
+
 ===== Soccer Chanel ===== 
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/SoccerChannel.png/revision/latest/scale-to-width-down/1200?cb=20200909232957" group-title="Indonesia",Soccer Channel
@@ -2417,7 +1959,8 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="SPORTS", Premier Sports (First Media)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="World fishing" tvg-logo="" group-title="SPORTS",World fishing
+http://iptvkita.my.id:25461/direct/hometv/2053
 
 ===== Sony ===== 
 
@@ -2461,6 +2004,17 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORTS", TNT SPORT 4 ESPN
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298471.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 1 HD
+http://iptvkita.my.id:25461/direct/hometv/2056
+#EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 2 HD
+http://iptvkita.my.id:25461/direct/hometv/2057
+#EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 3 HD
+http://iptvkita.my.id:25461/direct/hometv/2058
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="SPORTS",TNT 4 HD
+http://iptvkita.my.id:25461/direct/hometv/2059
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="SPORTS",Sky Sports F1 UK
+http://iptvkita.my.id:25461/direct/hometv/3501
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SPORTS",BT SPORT
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
@@ -2768,6 +2322,19 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1938.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1200px-Logo_RMC_Sport_2018.svg.png" group-title="SPORTS",RMC SPORT 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/279991.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 1
+http://iptvkita.my.id:25461/direct/hometv/1833
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 2
+http://iptvkita.my.id:25461/direct/hometv/1834
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 3
+http://iptvkita.my.id:25461/direct/hometv/1835
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 4" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 4
+http://iptvkita.my.id:25461/direct/hometv/1836
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 5" tvg-logo="https://hometv.pw/logo/sports2/rmc.png" group-title="SPORTS",|FR| RMC SPORT 5
+http://iptvkita.my.id:25461/direct/hometv/1837
+
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL
+http://iptvkita.my.id:25461/direct/hometv/2029
 
 ===== Champion TV =====
 
@@ -2786,6 +2353,21 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 #KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",Bein 3 (V*)
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 1 HD
+http://iptvkita.my.id:25461/direct/hometv/1826
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 2 HD
+http://iptvkita.my.id:25461/direct/hometv/1827
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 3 HD
+http://iptvkita.my.id:25461/direct/hometv/1828
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 4 HD
+http://iptvkita.my.id:25461/direct/hometv/1829
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 5 HD
+http://iptvkita.my.id:25461/direct/hometv/1830
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 6 HD
+http://iptvkita.my.id:25461/direct/hometv/1831
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="SPORTS",BEIN SPORTS 7 HD
+http://iptvkita.my.id:25461/direct/hometv/1832
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
