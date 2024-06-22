@@ -677,7 +677,7 @@ EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/s3HCVrO.png",Gar
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
  
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV (First Media)
+EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV (First Media)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
 
 
