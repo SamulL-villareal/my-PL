@@ -120,10 +120,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJ 
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
-#EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji
+EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://i.imgur.com/D70rSkE.png",Moji Digital
+#EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji Digital
 http://103.166.27.2:8112/play/a017/index.m3u8
 #http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298550
 
@@ -604,7 +604,7 @@ https://iptvme.xyz/vid/hls.m3u8?id=1561
 
 ===== NET ===== 
  
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://2.bp.blogspot.com/-ymiWM6mPRTk/UiRRW9Y_7pI/AAAAAAAABgc/k4KCEBdaOfE/s1600/Net-TV-dan-KPI-1-480x300.png",NET (Vision+)
+EXTINF:0 group-title="Indonesia" tvg-logo="http://2.bp.blogspot.com/-ymiWM6mPRTk/UiRRW9Y_7pI/AAAAAAAABgc/k4KCEBdaOfE/s1600/Net-TV-dan-KPI-1-480x300.png",NET (Vision+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -921,7 +921,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",CNN Indo
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
  
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",CNN Indonesia
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -1941,7 +1941,7 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="Indonesia",SOCCER CHANNEL B (V+)
+EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="Indonesia",SOCCER CHANNEL B (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 ===== Premiere ===== 
@@ -3554,7 +3554,7 @@ https://1.yurend.xyz/dash-wv/linear/5070/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-#EXTINF:-1 group-title="Indonesia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
+EXTINF:-1 group-title="Indonesia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/608/default.mpd
 https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 https://1.yurend.xyz/dash-wv/linear/608/default_primary.mpd
