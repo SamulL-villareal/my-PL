@@ -77,7 +77,7 @@ EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikiped
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
-EXTINF:-1 group-title="Indonesia" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",INDOSIAR (Vidio)
+EXTINF:-1 group-title="Indonesia" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",INDOSIAR (Aflax)
 http://startv365.com:80/D85A79B4/55A7743D/45098
 #http://tvnid.x10.mx/vidio/master.m3u8
 
@@ -93,7 +93,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA",Moji Proliga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA",Moji Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
  
@@ -118,13 +118,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #http://103.166.27.2:8112/play/a017/index.m3u8
 
-EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji Tv HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJ 
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji Tv HD
+http://iptvtree.net:8080/F18819/6eb39c7d/298550
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji
-http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+#EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji Digital
 http://103.166.27.2:8112/play/a017/index.m3u8
