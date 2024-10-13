@@ -21,6 +21,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV Dens
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
+https://cdn14jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8?c
 http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
@@ -126,6 +128,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
  
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg",Moji Tv (IndiHome)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #http://103.166.27.2:8112/play/a017/index.m3u8
 
