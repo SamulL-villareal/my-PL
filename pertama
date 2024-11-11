@@ -36,11 +36,11 @@ https://iptvme.xyz/vid/hls.m3u8?id=204
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV Dens
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
-https://cdn14jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8?c
-http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
-http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV Dens
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -54,8 +54,14 @@ EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCT
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/9hqFKAj.png" group-title="Indonesia",SCTV (Tranvision)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=CubMu/1.5.8 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SCTV_Indonesia_2003.svg/2462px-SCTV_Indonesia_2003.svg.png",SCTV (V)
