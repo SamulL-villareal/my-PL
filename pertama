@@ -1,5 +1,19 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml,https://mammothtv.wapka.co/epg2,https://mammothtv.wapka.co/epg1,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ua.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/ie.xml" refresh="3600"
 
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://iili.io/JjzVUNf.png" group-title="VISION+",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+ 
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-logo="https://iili.io/JjzV6V2.png" group-title="VISION+",Sportstars 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
 #EXTINF:-1 group-title="Sports" tvg-name="STARSPORT 3" tvg-country="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
