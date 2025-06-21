@@ -6707,3 +6707,46 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
+
+
+###########################  FIFA+ ################################
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇦🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-ATBA3300007PT.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-CABD1200008JG.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇨🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-CHBA3300010UC.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-DEBA3300019EB.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-ESBC2700009B4.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-FRBA3300037Y7.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-GBBD1100008YW.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-ITBD1000002HF.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇰🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-KRBD1900001Y2.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-USBD12000255B.m3u8
