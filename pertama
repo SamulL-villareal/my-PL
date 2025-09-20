@@ -210,7 +210,7 @@ EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-lo
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://kametv.my.id/pdx/play.mpd?id=17994
 
-#EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji Digital
+EXTINF:-1 tvg-name="Moji_hd" tvg-id="Moji hd" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji Digital
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/mojiTV2.m3u
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NASIONAL", Channel Jowo ⚪
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="NASIONAL", Channel Jowo 
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
@@ -862,7 +862,7 @@ https://iptvme.xyz/vid/hls.m3u8?id=875
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:0 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="NASIONAL",IMC (Vision+)
+#EXTINF:0 tvg-logo="https://i.postimg.cc/RhrVvp29/4r2D8xN.png" group-title="NASIONAL",IMC (Vision+)
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 
@@ -1411,7 +1411,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPr
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="HanacarakaTV.id" tvg-name="HanacarakaTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Nasional",Hanacaraka TV 🔵
+#EXTINF:-1 tvg-id="HanacarakaTV.id" tvg-name="HanacarakaTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Nasional",Hanacaraka TV 
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 
