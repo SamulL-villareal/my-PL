@@ -7170,7 +7170,116 @@ https://jmp2.uk/sam-USBD12000255B.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="non" tvg-id="itzplay.id" group-title="Indonesia",
 
+(Play)
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMOcefA.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Sin Po TV (Vidio)
+http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/8237.drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTJzCUJ.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Mentari TV (Vidio)
+https://aspaltvpasti.top/11111/8237.mpd
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" tvg-id="itzplay.id" group-title="Indonesia", Indosiar (Vidio)
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIXv99J.jpeg" tvg-id="itzplay.id" group-title="Indonesia",SCTV (Vidio)
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6mshLr.jpeg" tvg-id="itzplay.id" group-title="Indonesia",RCTI (Vidio)
+http://tvratu.my.id/nissa/index.mpd?id=665&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQwrWns.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MNCTV (Vidio)
+http://tvratu.my.id/nissa/index.mpd?id=870&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0yy1tX.jpeg" tvg-id="itzplay.id" group-title="Indonesia",GTV (Vidio)
+http://tvratu.my.id/index.mpd?id=778&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IsAZUtl.jpeg" tvg-id="itzplay.id" group-title="Indonesia",MetroTV (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uh6DXoh.jpeg" tvg-id="itzplay.id" group-title="Indonesia",iNews (Vidio)
+https://ratuvidio.nissa/index.mpd?id=5409&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K31rMbd.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TvOne (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upiTVgc.jpeg" tvg-id="itzplay.id" group-title="Indonesia",ANTV (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfJQljk.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Moji (Vidio)
+http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mgPjqP.jpeg" tvg-id="itzplay.id" group-title="Indonesia",TVRI Nasional (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=drm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qct1cte.jpeg" tvg-id="itzplay.id" group-title="Indonesia",Kompas TV (Vidio)
+https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://beetv.my.id/stream/vd.m3u8?ch=rtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v80bOUj.jpeg" tvg-id="itzplay.id" group-title="Indonesia",RTV (Vidio)
+https://beetv.my.id/stream/vd.m3u8?ch=rtv
+https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 
 
